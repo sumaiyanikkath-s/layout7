@@ -76,7 +76,7 @@ margin:auto;
 	margin-top:60px;
 	background-color:white;
 }	
-.banner .banner-fc .boxA
+.banner .banner-fc .boxa
 {
 	width:178px;
 	height:68px;
@@ -94,7 +94,7 @@ margin:auto;
 	justify-content:center;
 	margin-top:10px;
 }
-.Bootstrap .Bootstrap-fc .textA
+.Bootstrap .Bootstrap-fc .texta
 {
 	width:383px;
 	height:64px;
@@ -113,14 +113,14 @@ margin:auto;
 	justify-content:space-evenly;
 	flex-wrap:wrap;
 }
-.Shoreline .Shoreline-fc .boxA
+.Shoreline .Shoreline-fc .boxa
 {
 	width:820px;
 	height:515px;
 	margin-top:30px;
 	background-color:silver;
 }
-.Shoreline .Shoreline-fc .boxB
+.Shoreline .Shoreline-fc .boxb
 {
 	width:420px;
 	height:187px;
@@ -140,25 +140,25 @@ margin:auto;
 	flex-direction:row;
 	margin-top:50px;
 }
-.portfolio .portfolio-fc .boxA
+.portfolio .portfolio-fc .boxa
 {
 	width:530px;
 	height:440px;
 	background-color:thistle;
 }
-.portfolio .portfolio-fc .boxB
+.portfolio .portfolio-fc .boxb
 {
 	width:530px;
 	height:440px;
 	background-color:dimgrey;
 }
-.portfolio .portfolio-fc .boxC
+.portfolio .portfolio-fc .boxc
 {
 	width:530px;
 	height:440px;
 	background-color:dimgrey;
 }
-.portfolio .portfolio-fc .boxD
+.portfolio .portfolio-fc .boxd
 {
 	width:530px;
 	height:440px;
@@ -183,14 +183,14 @@ margin:auto;
 	width:100%;
 	text-align:center;
 }
-.updates .updates-fc .boxA
+.updates .updates-fc .boxa
 {
 	width:617px;
 	height:62px;
 	margin-top:30px;
 	background-color:white;
 }
-.updates .updates-fc .boxB
+.updates .updates-fc .boxb
 {
 	width:169px;
 	height:62px;
@@ -206,24 +206,24 @@ margin:auto;
 {
 	display:flex;
 	flex-direction:row;
-	justify-content:space-evenly;
+	justify-content:space-around;
 	margin-top:100px;
 }
-.contact .contact-fc .boxA
+.contact .contact-fc .boxa
 {
-	width:370px;
+	width:340px;
 	height:205px;
 	background-color:orchid;
 }
-.contact .contact-fc .boxB
+.contact .contact-fc .boxb
 {
-	width:370px;
+	width:340px;
 	height:205px;
 	background-color:palegreen;
 }
-.contact .contact-fc .boxC
+.contact .contact-fc .boxc
 {
-	width:370px;
+	width:340px;
 	height:205px;
 	background-color:palevioletred;
 }
